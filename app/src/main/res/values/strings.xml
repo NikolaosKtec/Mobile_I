@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aula15_09</string>
+    <string name="set_vari_vel_y">set variável Y</string>
+    <string name="calcular">Calcular</string>
+    <string name="set_vari_vel_x">Set variável X</string>
+    <string name="resultado">Resultado</string>
+    <string name="soma">Soma:</string>
+    <string name="y">Y</string>
+    <string name="n_mero_y">Número Y</string>
+    <string name="x">X</string>
+    <string name="n_mero_x">Número X</string>
+    <string name="title">Calculadora mais estupida do mundo</string>
+    <string name="realizarcalc_txt">realizando cálculo...</string>
+    <string name="label_var">Label Var</string>
+    <string name="ok">Ok</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
